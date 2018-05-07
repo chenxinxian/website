@@ -252,14 +252,14 @@ html,body {
 }
 
 .header-logo {
-	background-image:url(img/logo.png);
+	background-image:url(../figure/logo.jpg);
 	background-size:contain;
 	background-repeat:no-repeat;
 	background-position:left center;
 	display:block;
-	height:40px;
+	height:60px;
 	width:400px;
-	margin:20px 0;
+	margin:10px 0;
 	float:left;
 }
 
