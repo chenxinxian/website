@@ -252,7 +252,7 @@ html,body {
 }
 
 .header-logo {
-	background-image:url(../figure/logo.jpg);
+	background-image:url(../figure/logo.png);
 	background-size:contain;
 	background-repeat:no-repeat;
 	background-position:left center;
